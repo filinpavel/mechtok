@@ -1,0 +1,8 @@
+.form {width:700px;margin: 0 auto;text-align: left; padding:30px 0 0 30px; 
+background: #fff url(../../images/img5.jpg) right bottom no-repeat; border: 1px solid #333; box-shadow: #333 0px 0px 10px;}
+.form .caption {margin-bottom: 15px;width: 100%;font-size: 25px;}
+.form .txt {width: 500px;}
+.form table { border:none; margin-bottom:0;}
+.form table td { border:none;padding: 5px;}
+.form input, .form textarea {padding:3px;}
+.form textarea {width: 350px; margin-top: 16px;}
