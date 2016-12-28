@@ -79,7 +79,7 @@ h6 { font-size:11px;}
 #header #phone p.gorod { font-size:22px; line-height:12px;} 
 
 #stripemenu {
-	background: rgb(92,49,7);
+	background: rgb(70,130,180);
 	background: -moz-linear-gradient(top,  rgb(92,49,7) 0%, rgb(62,34,1) 100%);
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgb(92,49,7)), color-stop(100%,rgb(62,34,1)));
 	background: -webkit-linear-gradient(top,  rgb(92,49,7) 0%,rgb(62,34,1) 100%);
