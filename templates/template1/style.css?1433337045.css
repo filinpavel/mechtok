@@ -80,12 +80,12 @@ h6 { font-size:11px;}
 
 #stripemenu {
 	background: rgb(70,130,180);
-	background: -moz-linear-gradient(top,  rgb(70,130,180) 0%, rgb(62,34,1) 100%);
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgb(92,49,7)), color-stop(100%,rgb(62,34,1)));
-	background: -webkit-linear-gradient(top,  rgb(70,130,180) 0%,rgb(62,34,1) 100%);
-	background: -o-linear-gradient(top,  rgb(70,130,180) 0%,rgb(62,34,1) 100%);
-	background: -ms-linear-gradient(top,  rgb(70,130,180) 0%,rgb(62,34,1) 100%);
-	background: linear-gradient(to bottom,  rgb(70,130,180) 0%,rgb(62,34,1) 100%);
+	background: -moz-linear-gradient(top,  rgb(70,130,180) 0%, rgb(120,160,180) 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgb(70,130,180)), color-stop(100%,rgb(120,160,180)));
+	background: -webkit-linear-gradient(top,  rgb(70,130,180) 0%,rgb(120,160,180) 100%);
+	background: -o-linear-gradient(top,  rgb(70,130,180) 0%,rgb(120,160,180) 100%);
+	background: -ms-linear-gradient(top,  rgb(70,130,180) 0%,rgb(120,160,180) 100%);
+	background: linear-gradient(to bottom,  rgb(70,130,180) 0%,rgb(120,160,180) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5c3107', endColorstr='#3e2201',GradientType=0 );
 	padding:0 25px;
               margin-top: 2px;
