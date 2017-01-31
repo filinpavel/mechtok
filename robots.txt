@@ -1,4 +1,7 @@
 User-agent: *
+Host: www.mehtok.ru
+sitemap: http://mehtok.ru/sitemap.xml
 Disallow: /hostcmsfiles
 Disallow: /templates
 Disallow: /machine-bu
+
