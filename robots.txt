@@ -4,4 +4,5 @@ sitemap: http://mehtok.ru/sitemap.xml
 Disallow: /hostcmsfiles
 Disallow: /templates
 Disallow: /machine-bu
+Disallow: /catalogs
 
